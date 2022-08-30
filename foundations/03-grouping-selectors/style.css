@@ -1,0 +1,15 @@
+.common{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif, 'Times New Roman', Times, serif,sans-serif;
+
+}
+
+#first{
+    background-color: black;
+    color: white;
+
+}
+
+#sec{
+    background-color: yellow;
+}
